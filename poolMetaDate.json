@@ -2,7 +2,7 @@
 "name": "Make Cardano Journey!",
 "description": "MAKE offers the lowest Fixed Fee at just 170 ADA, ensuring greater rewards for delegators, and ongoing returns.",
 "ticker": "MAKE",
-"homepage": "https://twitter.com/MakeCardanoPool"
+"homepage": "https://twitter.com/MakeCardanoPool",
 "extended": "https://raw.githubusercontent.com/2525nicole/make/main/extended-metadata.json",
 "verification": "53228dd0568f4a1bcc"
 }
