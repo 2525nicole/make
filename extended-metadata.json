@@ -1,0 +1,18 @@
+{
+ "info": {
+  "url_png_icon_64x64": "https://raw.githubusercontent.com/hirano-vm4/Cardano_Pool_campfire/main/camp_fire_logo.png",
+  "url_png_logo": "",
+  "social": {
+   "twitter_handle": "@MakeCardanoPool",
+   "telegram_handle": "",
+   "youtube_handle": "",
+   "facebook_handle": "",
+   "discord_handle": "",
+   "github_handle": ""
+  },
+  "about": {
+   "server": "",
+   "verification": "53228dd0568f4a1bcc"
+  }
+ }
+}
